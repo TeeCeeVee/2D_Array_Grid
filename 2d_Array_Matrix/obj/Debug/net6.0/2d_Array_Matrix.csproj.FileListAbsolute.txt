@@ -1,0 +1,15 @@
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.AssemblyInfoInputs.cache
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.AssemblyInfo.cs
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\bin\Debug\net6.0\2d_Array_Matrix.exe
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\bin\Debug\net6.0\2d_Array_Matrix.deps.json
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\bin\Debug\net6.0\2d_Array_Matrix.runtimeconfig.json
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\bin\Debug\net6.0\2d_Array_Matrix.dll
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\bin\Debug\net6.0\2d_Array_Matrix.pdb
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.dll
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\refint\2d_Array_Matrix.dll
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.pdb
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\2d_Array_Matrix.genruntimeconfig.cache
+C:\Users\theav\source\repos\2d_Array_Matrix_App\2d_Array_Matrix\obj\Debug\net6.0\ref\2d_Array_Matrix.dll
